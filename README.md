@@ -1,13 +1,14 @@
 ### Hi there 👋
-I'm Muhyadin Abdullahi
+### I'm Muhyadin Abdullahi
+I work primarily with javascript and php
 
-### About Me
+#### About Me
 - 🇰🇪 From Mombasa, Kenya...
 - 🏢 Working @[MEWA Hospital](mewahospital.org)
 - 💻 Fullstack web developer
 
 
-### My Work
+#### My Work
 - [https://m-abdullahi.com](https://m-abdullahi.com)
 - [https://mewahospital.org](https://mewahospital.org)
 - [https://twitter.com/MuhiAbdullahi](https://twitter.com/MuhiAbdullahi)
