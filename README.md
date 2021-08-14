@@ -1,4 +1,16 @@
 ### Hi there 👋
+I'm Muhyadin Abdullahi
+
+### About Me
+- 🇰🇪 From Mombasa, Kenya...
+- 🏢 Working @[MEWA Hospital](mewahospital.org)
+- 💻 Fullstack web developer
+
+
+### My Work
+- [https://m-abdullahi.com](https://m-abdullahi.com)
+- [https://mewahospital.org](https://mewahospital.org)
+- [https://twitter.com/MuhiAbdullahi](https://twitter.com/MuhiAbdullahi)
 
 <!--
 **M-Abdullahi/M-Abdullahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
