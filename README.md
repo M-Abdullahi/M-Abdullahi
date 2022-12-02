@@ -4,8 +4,9 @@ I work primarily with javascript and php
 
 #### About Me
 - 🇰🇪 From Mombasa, Kenya...
-- 🏢 Working @[MEWA Hospital](mewahospital.org)
-- 💻 Fullstack web developer
+- 🏢 Previously worked @[MEWA Hospital](mewahospital.org)
+- 🏢 Working @[Ecobiz Ltd](https://ecobiz.co.ke)
+- 💻 Fullstack developer
 
 
 #### My Work
