@@ -1,17 +1,17 @@
 ### Hi there 👋
-### I'm Muhyadin Abdullahi
-I work primarily with javascript and php
+### I'm Muhidin Abdullahi
+I specialise working in the real estate and healthcare sector. 
 
 #### About Me
 - 🇰🇪 From Mombasa, Kenya...
-- 🏢 Previously worked @[MEWA Hospital](mewahospital.org)
+- 🏢 Previously worked @[MEWA Hospital](mewa.or.ke)
 - 🏢 Working @[Ecobiz Ltd](https://ecobiz.co.ke)
 - 💻 Fullstack developer
 
 
-#### My Work
+#### Reach me through
 - [https://m-abdullahi.com](https://m-abdullahi.com)
-- [https://mewahospital.org](https://mewahospital.org)
+<!-- - [https://mewahospital.org](https://mewahospital.org) -->
 - [https://twitter.com/MuhiAbdullahi](https://twitter.com/MuhiAbdullahi)
 
 <!--
