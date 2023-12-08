@@ -4,7 +4,7 @@ I specialise working in the real estate and healthcare sector.
 
 #### About Me
 - 🇰🇪 From Mombasa, Kenya...
-- 🏢 Previously worked @[MEWA Hospital](mewa.or.ke)
+- 🏢 Previously worked @[MEWA Hospital](mewa.or.ke) (5 Yrs)
 - 🏢 Working @[Ecobiz Ltd](https://ecobiz.co.ke)
 - 💻 Fullstack developer
 
